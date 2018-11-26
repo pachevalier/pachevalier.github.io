@@ -39,15 +39,19 @@ ratio: 16x10
 
 ## My research
 
+* *The impact of the thresholds of 10, 20 and 50 employees on the size of French companies*
+* *Le Polimètre (France, 2007)* : analysing political behavior using quiz data
+* Estimating incumbency advantage in French elections
+
 ## Teaching was a great experience
 
-* I've been teaching at Cachan : 
+I've been teaching at Cachan : 
+
 * econometrics
 * statistics
 * game theory
 * decision theory
 * growth theory
-* It's a great experience
 
 ## Why did I not finished py Phd ?
 
@@ -61,7 +65,7 @@ ratio: 16x10
 * learn from others/ don't try to learn everything by yourself
 * do things you can do. Don't try to do what you can't do.
 
-# There is a life out of the lab
+## There is a life out of the lab
 
 Econometrics use data but around 2012, many other fields use data :
 
@@ -78,13 +82,13 @@ Econometrics use data but around 2012, many other fields use data :
 
 ## What is data journalism ?
 
-## Social science on deadline ? {.fullpage}
+## {.fullpage}
 
 <center>
 <img src="images/socialsciencedeadline.png">
 </center>
 
-## The new punk ? {.fullpage}
+## {.fullpage}
 
 <center>
 <img src="images/datajournalismnewpunk.png">
@@ -172,8 +176,11 @@ Econometrics use data but around 2012, many other fields use data :
 * [Emile Cheysson](https://fr.wikipedia.org/wiki/%C3%89mile_Cheysson) : unknown French pionneer 
 * Edward Tufte : *[The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi)* 
 * John Burn-Murdoch (FT Interactive) : [Visual vocabulary](http://ft-interactive.github.io/visual-vocabulary/)
+* ...
 
-# Next step : data scientist at Etalab 
+## Next step 
+
+Data scientist at Etalab 
 
 ## What is Etalab ? (in short)
   
@@ -202,11 +209,30 @@ Thomas H. Davenport and D.J. Patil
 * Using a predictive algorithm to improve the probability to find illegaly converted buildings
 * [MODA 2013 Annual report](https://civicio.files.wordpress.com/2016/07/annual_report_2013.pdf)
 
-## What do we do at Etalab ? 
+## Why is it so nice to work at Etalab 1/2 ?
 
-* Open data 
-* Data governance/data policy
-* Data science and artificial intelligence for the public sector
+1. People are autonomous : we have a great freedom in what we do
+1. People who are not afraid to learn : we are not specialists of everything but we are willing to learn
+1. People have values : many of us are engaged in free knowledge, open data movement, etc
+1. People are willing to debate together, learn from others, etc : many discussions inside of the team
+
+## Why is it so nice to work at Etalab 2/2 ?
+
+1. Everyone has specific skills : data science, full stack development, legal skills
+1. But everyone do much more than its area of expertise
+
+## How do we work at Etalab ?
+
+1. **maker way** : develop products and tools
+1. **legal way** : drafting the law, defining a policy
+1. **people way** : supporting public administration and working with the civil society
+
+## What do we do at Etalab ? (long version)
+
+* Developping products
+* Writing bills 
+* Writing reports on data governance/data policy
+* HData science and artificial intelligence for the public sector
 
 ## { .fullpage }
 
@@ -219,54 +245,39 @@ Thomas H. Davenport and D.J. Patil
 ## { .fullpage }
 
 <img src="images/entreprisedatagouv.png">
- 
-## The data governance report 
 
-<p class="double">
+## Writing bills { .fullpage }
+
+<center>
+<img src="/home/paul-antoine/projets/pachevalier.github.io/slides/images/loipourunerepubliquenumerique.png">
+</center>
+
+## Open data by default and data as a public service
+
+* *Free access to public data has now become the rule*. Exceptions to this principle are now very strictly regulated.  
+* The Digital Republic Act (2016) has considerably expanded the range of administrative documents available online, moving from release on demand to *open data by default* (effective in 2018)
+* Legal recognition to « reference data » (Digital Republic Act, 2016) 
+* 9 key datasets that are critical for the society and economy, including : Company Register (Sirene), Land Register (Cadastre), National adresses database, National directory of associations, etc.
+
+## { .fullpage }
+
+<img src="images/spd.png">
+
+## Chief data officer report
+
+<div class="double">
+<p class="double-flow">
 ### 3 axes for data policy
 
 * producing high quality key datasets
 * improving data flow while respecting confidentiality
 * using data to improve public action
-
-<img src="images/couv-rapport-agd-20162017.png">
+</p><p class="double-flow">
+<img src="images/couv-rapport-agd-20162017.png" class="one-col-image">
 </p>
+</div>
 
-## What are our ways of acting?
-
-1. **maker way** : develop products and tools
-1. **legal way** : drafting the law, defining a policy
-1. **people way** : supporting public administration and working with the civil society
-
-## Producing high quality key datasets
-
-Giving  legal recognition to « reference data » (Digital Republic Act, 2016) 
-
-9 key datasets that are critical for the society and economy, including :
-  
-* Company Register (Sirene),
-* Land Register (Cadastre),
-* National adresses database,
-* National directory of associations
-
-## { .fullpage }
-
-<img src="images/spd.png">
-  
-## Improving data flow
-  
-### Legal way
-  
-* *Free access to public data has now become the rule*. Exceptions to this principle are now very strictly regulated.  
-* The Digital Republic Act (2016) has considerably expanded the range of administrative documents available online, moving from release on demand to *open data by default* (effective in 2018)
-
-
-  
-## { .fullpage }
-  
-<img src="images/adressedatagouv.png">
-  
-## using data to improve public action
+## Using data to improve public action
   
 ## { .fullpage }
   
@@ -274,43 +285,43 @@ Giving  legal recognition to « reference data » (Digital Republic Act, 2016)
 <img src="images/labonneboite.png">
 </center>
   
-## { .fullpage }
-  
-<center>
-<img src="https://agd.data.gouv.fr/wp-content/uploads/2017/10/6-Predvol-predictions-quotidiennes.png">
-</center>
-  
-## { .fullpage }
-  
-<center>
-<img src="images/signauxfaibles.png">
-</center>
-  
+## La Bonne Boîte
+
+* 1/4 hiring is consecutive to a job offer
+* A small algorithm predicting the number of hirings would help applying in the good company.
+* Basically, we use past hiring as a predictor for future hirings 
+* Job seeker can easily get a list of companies where the have a probability to get hired.
+
 ## { .fullpage }
 
 <center>
 <img src="images/entrepreneur-interet-general-defis3.png">
 </center>
-  
-## { .fullpage }
-  
-<center>
-<img src="images/AMI-IA.jpg">
-</center>
-  
-## Why is it so nice to work at Etalab ?
 
-1. People are autonomous : we have a great freedom in what we do
-1. People who are not afraid to learn : we are not specialists of everything but we are willing to learn
-1. People have values : many of us are engaged in free knowledge, open data movement, etc
-1. People are willing to debate together, learn from others, etc : many discussions inside of the team
+## Entrepreneur interet general
 
-## Why is it so nice to work at Etalab ?
+* A fellowship program.
+* We select the best challenges
+* We find the best people (developers/data scientists/designers) to take on the challenge
+* They have 10 months to get results !
+* It works for 3 reasons : deadlines, ownership, fellowship.
 
-1. Everyone has specific skills : data science, full stack development, legal skills
-1. But everyone do much more than its area of expertise
+## And now AI
 
-## { .fullpage }
+<div class="double">
+<p class="double-flow">
+* 2018 : Call for proposals to select AI challenges in governmental agencies
+* 2019 : AI lab to help governmental agencies
+</p>
+<p class="double-flow">
+<img src="images/villani.png">
+</p>
+</div>
+
+## Inspiring figures in the field of data science
+
+* Mike Flowers for apply work at NYC
+* Hadley Wickham for developing the tidyverse
 
 ## See more
   
